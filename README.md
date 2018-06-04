@@ -1,0 +1,1 @@
+# BibleVR Customizer Assets
